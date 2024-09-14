@@ -24,4 +24,5 @@
 - Use any three (3) of the string manipulation methods discussed in the YouTube video below  
 
     - Bro Code: [String Methods in Python Are Easy](https://youtu.be/tb6EYiHtcXU?feature=shared)  
+
     - NOTE: The **length function** -- `len( )` -- is not a string method, but you can use it in your extension project if you wish, since it's often used when working with Python strings
